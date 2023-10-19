@@ -1,3 +1,5 @@
 # Como correr?
 
-### Undir en el boton verde de code y abrir el codespace llamado "Sturdy Waffle"
+```cmd
+pip install requests pybase64 json
+```
