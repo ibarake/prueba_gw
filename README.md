@@ -1,5 +1,7 @@
 # Como correr?
 
+Instalar python: https://www.python.org/downloads/
+
 ```cmd
 pip install requests pybase64 json
 ```
