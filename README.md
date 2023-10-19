@@ -2,6 +2,7 @@
 
 Instalar python: https://www.python.org/downloads/
 
+Instalar dependendias:
 ```cmd
 pip install requests pybase64 json
 ```
